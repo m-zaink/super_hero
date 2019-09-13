@@ -1,0 +1,16 @@
+name: super_hero
+description: A Flutter package to generate random super-hero names.
+version: 0.0.1
+author: m_zaink
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
