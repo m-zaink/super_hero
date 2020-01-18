@@ -1,3 +1,3 @@
-## [0.0.1] - 13th  September, 2019
+## [1.0.0] - 18th January, 2020
 
-* Basic working release.
+* Fully working release.
