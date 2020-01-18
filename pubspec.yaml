@@ -1,14 +1,10 @@
 name: super_hero
 description: A Flutter package to generate random super-hero names to be used as placeholder text. Rather than plain old random-word pairs, you can instead fill in with a super-hero name.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/m-zaink/super_hero
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
 
 dev_dependencies:
   flutter_test:
