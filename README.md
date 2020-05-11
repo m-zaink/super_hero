@@ -17,12 +17,12 @@ import 'package:super_hero/super_hero.dart';
 SuperHero.random(); // returns a random super-hero name
 ```
 
-### Pubspec Set-Up
+### `pubspec` set-Up
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  super_hero: ^1.0.0  # Include this line under the dependencies.
+  super_hero: ^1.0.1  # Include this line under the dependencies.
 ```
