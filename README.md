@@ -24,5 +24,5 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  super_hero: ^1.0.1  # Include this line under the dependencies.
+  super_hero: ^1.0.2  # Include this line under the dependencies.
 ```
